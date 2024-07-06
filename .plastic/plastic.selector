@@ -1,0 +1,4 @@
+repository "game_project@gg922@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
